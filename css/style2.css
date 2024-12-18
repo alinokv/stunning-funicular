@@ -1,0 +1,173 @@
+body
+{
+    margin: 0px;
+    overflow: hidden;
+    width: 100%;
+    background-color: #000000;
+}
+.back{
+    margin-top: -30px;
+    height: 1000px;
+    background-image: url("img/кладбище2.jpg");
+    background-size: cover;
+}
+.headder{
+    width: 1465px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -10px;
+    opacity: 0.95;
+
+}
+.newsbutton:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.newsbutton{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: #E0E0E0;
+    margin-top: 80px;
+    margin-left: 20px;
+    position:absolute;
+    text-decoration: none;
+}
+.studentlife:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.studentlife{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: #E0E0E0;
+    margin-top: 80px;
+    margin-left: 150px;
+    position:absolute;
+    text-decoration: none;
+}
+.raspisanie:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.raspisanie{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: #E0E0E0;
+    margin-top: 80px;
+    margin-left: 410px;
+    position:absolute;
+    text-decoration: none;
+}
+.specialnost:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.specialnost{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: #E0E0E0;
+    margin-top: 80px;
+    margin-left: 610px;
+    position:absolute;
+    text-decoration: none;
+}
+.help:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.help{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: #E0E0E0;
+    margin-top: 80px;
+    margin-left: 815px;
+    position:absolute;
+    text-decoration: none;
+}
+.felix:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.felix{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: #E0E0E0;
+    margin-top: 80px;
+    margin-left: 1150px;
+    position:absolute;
+    text-decoration: none;
+}
+.underline{
+    font-family: "SexyFont";
+    font-size: 17px;
+    color: #E0E0E0;
+    margin-left: 10px;
+    position:absolute;
+    bottom: 0px;
+    opacity: 0.9;
+
+}
+.capibaraswim{
+    background-image: url("img/капибара.jpg");
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 30px;
+    background-size: cover;
+    box-shadow: 0px 0px 15px -5px whitesmoke;
+}
+.capibaraswim2{
+    background-image: url("img/капибара2.jpg");
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 1080px;
+    background-size: cover;
+    box-shadow: 0px 0px 15px -5px whitesmoke;
+}
+.text1{
+    font-family: "SexyFont";
+    font-size: 40px;
+    margin-top: 120px;
+    margin-left: 400px;
+    position: absolute;
+    color: whitesmoke;
+    text-shadow: 0px 0px 15px -5px rgb(220, 13, 13);
+}
+.text2
+{
+    font-family: "SexyFont";
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 400px;
+    position: absolute;
+    color: whitesmoke;
+    text-shadow: 0px 0px 15px -5px whitesmoke;
+}
+.text3{
+    font-family: "SexyFont";
+    font-size: 40px;
+    margin-top: 550px;
+    margin-left: 200px;
+    position: absolute;
+    color: whitesmoke;
+}
+.text4{
+    font-family: "SexyFont";
+    font-size: 20px;
+    margin-top: 600px;
+    margin-left: 300px;
+    position: absolute;
+    color: whitesmoke;
+    text-align: right;
+}
+@font-face {
+    font-family: "SexyFont";
+    src: url("fonts/Concrete-Regular.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

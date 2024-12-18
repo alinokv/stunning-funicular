@@ -1,0 +1,148 @@
+body
+{
+    margin: 0px;
+    overflow: hidden;
+    width: 100%;
+    background-color: #E0E0E0;
+}
+.back{
+    margin-top: -30px;
+    height: 1000px;
+    background-image: url("img/кладбище.jpg");
+    background-size: cover;
+}
+.headder{
+    width: 1465px;
+    height: 100px;
+    background-color: #E0E0E0;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -10px;
+    opacity: 0.95;
+
+}
+.newsbutton:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.newsbutton{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: black;
+    margin-top: 80px;
+    margin-left: 20px;
+    position:absolute;
+    text-decoration: none;
+}
+.studentlife:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.studentlife{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: black;
+    margin-top: 80px;
+    margin-left: 150px;
+    position:absolute;
+    text-decoration: none;
+}
+.raspisanie:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.raspisanie{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: black;
+    margin-top: 80px;
+    margin-left: 410px;
+    position:absolute;
+    text-decoration: none;
+}
+.specialnost:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.specialnost{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: black;
+    margin-top: 80px;
+    margin-left: 610px;
+    position:absolute;
+    text-decoration: none;
+}
+.help:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.help{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: black;
+    margin-top: 80px;
+    margin-left: 815px;
+    position:absolute;
+    text-decoration: none;
+}
+.felix:hover{
+    color: rgb(66, 68, 68);
+    transition: color 0.35ms linear;
+}
+.felix{
+    font-family: "SexyFont";
+    font-size: 20px;
+    color: black;
+    margin-top: 80px;
+    margin-left: 1150px;
+    position:absolute;
+    text-decoration: none;
+}
+.underline{
+    font-family: "SexyFont";
+    font-size: 17px;
+    color: black;
+    margin-left: 10px;
+    position:absolute;
+    bottom: 0px;
+    opacity: 0.9;
+
+}
+.map{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 35px;
+    box-shadow: 0px 0px 15px -5px whitesmoke;;
+}
+.name{
+    font-family: "SexyFont";
+    font-size: 28px;
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 120px;
+    color: black;
+    text-align: center;
+}
+.infotext1{
+    font-family: "SexyFont";
+    font-size: 20px;
+    position: absolute;
+    margin-top: 710px;
+    margin-left: 35px;
+    color: black;
+}
+.infotext2{
+    font-family: "SexyFont";
+    font-size: 18px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 520px;
+    color:black;
+}
+@font-face {
+    font-family: "SexyFont";
+    src: url("fonts/Concrete-Regular.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
